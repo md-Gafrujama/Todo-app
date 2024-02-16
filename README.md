@@ -7,6 +7,7 @@ Installation
 Usage
 Contributing
 License
+Vercel Link
 Features
 Add New Tasks: Easily add new tasks to your todo list.
 Mark Tasks as Completed: Check off tasks when they are done to move them to the completed section.
@@ -23,15 +24,18 @@ Installation
 To run this TodoList Application locally, follow these steps:
 
 Clone the Repository:
+
 bash
 Copy code
-git clone <repository-url>
+git clone [repository-url]
 Navigate to the Project Directory:
+
 bash
 Copy code
 cd todo-list-app
 Open the App:
 Open the index.html file in your web browser. Alternatively, you can host the app on a local server.
+
 Usage
 Add Task: Enter a task in the input field labeled "Add Item". Click the "Add" button to add the task to your todo list.
 Mark Task Completed: Check the checkbox next to a task to mark it as completed. The completed task will move to the "Completed" section.
@@ -44,7 +48,7 @@ Fork the Repository: Fork the repository to your GitHub account.
 Clone the Forked Repository:
 bash
 Copy code
-git clone <forked-repository-url>
+git clone [forked-repository-url]
 Create a New Branch:
 bash
 Copy code
@@ -62,6 +66,7 @@ Create Pull Request: Create a new Pull Request from your forked repository to th
 License
 This project is licensed under the MIT License.
 
-Feel free to customize and expand upon this README as needed for your website
+Feel free to customize and expand upon this README as needed for your website.
 
-link-todo-app-gamma-fawn-51.vercel.app
+Vercel Link
+The TodoList Application is deployed on Vercel. You can access it here.
