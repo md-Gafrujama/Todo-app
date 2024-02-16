@@ -1,5 +1,5 @@
-Todo App
-Welcome to the Todo App, a simple and intuitive task management application built with HTML, CSS, and JavaScript.
+TodoList Application
+Welcome to the TodoList Application, a comprehensive task management tool designed to help you stay organized and efficient. Built with HTML, CSS, and JavaScript, this application offers a user-friendly interface and robust features to streamline your task management process.
 
 Table of Contents
 Features
@@ -13,8 +13,14 @@ Mark Tasks as Completed: Check off tasks when they are done to move them to the 
 Edit Existing Tasks: Modify task descriptions or details as needed.
 Delete Tasks: Remove tasks from the list that are no longer needed.
 Responsive Design: The app is designed to work well on both desktop and mobile devices.
+Prioritization: Assign priorities to tasks for better organization.
+Due Dates: Set due dates for tasks to keep track of deadlines.
+Categories: Group tasks into categories for better organization and filtering.
+Search Functionality: Search for specific tasks using keywords or phrases.
+Reminders: Receive reminders for upcoming tasks or overdue tasks.
+Collaboration: Share tasks and collaborate with others in real-time.
 Installation
-To run this Todo App locally, follow these steps:
+To run this TodoList Application locally, follow these steps:
 
 Clone the Repository:
 bash
@@ -23,7 +29,7 @@ git clone <repository-url>
 Navigate to the Project Directory:
 bash
 Copy code
-cd todo-app
+cd todo-list-app
 Open the App:
 Open the index.html file in your web browser. Alternatively, you can host the app on a local server.
 Usage
@@ -55,3 +61,5 @@ git push origin feature-name
 Create Pull Request: Create a new Pull Request from your forked repository to the original repository.
 License
 This project is licensed under the MIT License.
+
+Feel free to customize and expand upon this README as needed for your website
