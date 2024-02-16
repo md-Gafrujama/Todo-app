@@ -74,10 +74,7 @@ This project is licensed under the MIT License.
 
 Feel free to customize and expand upon this README as needed for your website.
 
-Website
 The TodoList Application is deployed on Vercel. You can access it here.
 
-bash
-Copy code
+This README now includes a section called "Website" where users can find the link to your deployed TodoList Application.
 
-This README now includes a section called "Website" where users can find the link to
